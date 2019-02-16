@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546196959948.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5B865E03",
+    "lastKnownWriteTime" : 1550355989,
+    "last_content_update" : 1550355989256,
+    "path" : "~/Desktop/UCLA/Grad/Thesis/NBA_homecourt_sensitivity_analysis/R/data_prep.R",
+    "project_path" : "R/data_prep.R",
+    "properties" : {
+        "cursorPosition" : "164,82",
+        "scrollLine" : "139",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
